@@ -2,8 +2,9 @@
 
 
 const login = () => {
-  return (
-  )
+  return ( 
+    console.log('Omai wa mou shinde iru')
+)
 }
 
 export default login
